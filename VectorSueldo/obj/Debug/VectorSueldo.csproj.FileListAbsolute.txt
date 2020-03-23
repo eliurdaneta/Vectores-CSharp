@@ -1,0 +1,6 @@
+C:\Users\Compaq\source\repos\VectorSueldo\bin\Debug\VectorSueldo.exe.config
+C:\Users\Compaq\source\repos\VectorSueldo\bin\Debug\VectorSueldo.exe
+C:\Users\Compaq\source\repos\VectorSueldo\bin\Debug\VectorSueldo.pdb
+C:\Users\Compaq\source\repos\VectorSueldo\obj\Debug\VectorSueldo.csprojAssemblyReference.cache
+C:\Users\Compaq\source\repos\VectorSueldo\obj\Debug\VectorSueldo.exe
+C:\Users\Compaq\source\repos\VectorSueldo\obj\Debug\VectorSueldo.pdb
