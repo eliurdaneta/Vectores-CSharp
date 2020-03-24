@@ -1,0 +1,6 @@
+C:\Users\Compaq\source\repos\VectorPromedio\bin\Debug\VectorPromedio.exe.config
+C:\Users\Compaq\source\repos\VectorPromedio\bin\Debug\VectorPromedio.exe
+C:\Users\Compaq\source\repos\VectorPromedio\bin\Debug\VectorPromedio.pdb
+C:\Users\Compaq\source\repos\VectorPromedio\obj\Debug\VectorPromedio.csprojAssemblyReference.cache
+C:\Users\Compaq\source\repos\VectorPromedio\obj\Debug\VectorPromedio.exe
+C:\Users\Compaq\source\repos\VectorPromedio\obj\Debug\VectorPromedio.pdb
