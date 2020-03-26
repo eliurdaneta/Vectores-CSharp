@@ -1,0 +1,7 @@
+C:\Users\Compaq\source\repos\MayorSueldo\MayorSueldo\bin\Debug\MayorSueldo.exe.config
+C:\Users\Compaq\source\repos\MayorSueldo\MayorSueldo\bin\Debug\MayorSueldo.exe
+C:\Users\Compaq\source\repos\MayorSueldo\MayorSueldo\bin\Debug\MayorSueldo.pdb
+C:\Users\Compaq\source\repos\MayorSueldo\MayorSueldo\obj\Debug\MayorSueldo.csprojAssemblyReference.cache
+C:\Users\Compaq\source\repos\MayorSueldo\MayorSueldo\obj\Debug\MayorSueldo.csproj.CoreCompileInputs.cache
+C:\Users\Compaq\source\repos\MayorSueldo\MayorSueldo\obj\Debug\MayorSueldo.exe
+C:\Users\Compaq\source\repos\MayorSueldo\MayorSueldo\obj\Debug\MayorSueldo.pdb
